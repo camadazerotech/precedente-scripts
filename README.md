@@ -1,6 +1,6 @@
-# Camada Zero: scripts dos vídeos
+# Scripts dos vídeos de infraestrutura (arquivo)
 
-Scripts mostrados nos vídeos do canal **Camada Zero** no YouTube ([@camadazerotech](https://www.youtube.com/@camadazerotech)): virtualização e infraestrutura em português.
+Scripts mostrados em vídeos antigos de virtualização e infraestrutura, em português. O repositório não recebe mais vídeos novos e fica disponível para consulta.
 
 Cada vídeo tem uma pasta própria, com os scripts e um README explicando o que eles fazem e como rodar.
 

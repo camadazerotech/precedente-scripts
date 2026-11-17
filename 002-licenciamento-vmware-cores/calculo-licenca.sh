@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # =============================================================================
-# calculo-licenca.sh — Camada Zero, vídeo 002
+# calculo-licenca.sh — vídeo 002
 # Calcula, por cluster, os cores licenciáveis pela regra oficial da Broadcom
 # (KB 313548: mínimo de 16 cores por CPU, somados por host) e compara a
 # capacidade bruta de vSAN informada com o direito incluído na edição.

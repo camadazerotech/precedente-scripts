@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # =============================================================================
-# checagem-patch-licenca.sh — Dark Channel, vídeo 001 (demo 2)
+# checagem-patch-licenca.sh — vídeo 001 (demo 2)
 # Para cada host ESXi 8.x:
 #   1) compara o build com o build corrigido da VMSA-2026-0006
 #      (ESXi 8.0 U3k = 25595708; matriz de resposta do advisory Broadcom 38017)

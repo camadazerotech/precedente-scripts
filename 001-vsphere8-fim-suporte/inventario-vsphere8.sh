@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # =============================================================================
-# inventario-vsphere8.sh — Dark Channel, vídeo 001
+# inventario-vsphere8.sh — vídeo 001
 # Lista vCenter e hosts ESXi com versão, build, sockets e cores, e conta
 # quantos dias faltam para o fim do suporte geral do vSphere 8 (11/10/2027,
 # Broadcom KB 459135).
